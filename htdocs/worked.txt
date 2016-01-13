@@ -1,0 +1,649 @@
+    1  ls
+    2  su root
+    3  lfkjdfsd
+    4  exit
+    5  cd /sauerbraten/
+    6  ls
+    7  '
+    8  ls
+    9  ./sauerbraten_unix 
+   10  su root
+   11  cd /sauerbraten/
+   12  ls
+   13  ./sauerbraten_unix 
+   14  exdit
+   15  exit
+   16  ifconfig
+   17  ping 172.31.0.151
+   18  ifconfig
+   19  cd /Downloads/
+   20  ls
+   21  cd Memes/
+   22  ls
+   23  wine setup.exe 
+   24  ls
+   25  exit
+   26  cd /sauerbraten/
+   27  ./sauerbraten_unix 
+   28  exit
+   29  cd /sauerbraten/
+   30  ls
+   31  ./sauerbraten_unix 
+   32  exit]
+   33  exit
+   34  shutdown -r nw
+   35  shutdown -r now
+   36  cd /sauerbraten/
+   37  ls
+   38  cd ..
+   39  ls
+   40  cd ~
+   41  ls
+   42  vlc Higher.mp3 
+   43  ls
+   44  cd /sauerbraten/
+   45  ./sauerbraten_unix 
+   46  exit
+   47  cd
+   48  cd Home
+   49  cd .local
+   50  cd share
+   51  cd minecraft/
+   52  java -jar 1.8.7
+   53  cd versions/
+   54  cd 1,8,7
+   55  cd 1.8.7
+   56  java -jar 1.8.7.jar 
+   57  minecraft 
+   58  ifconfig
+   59  name
+   60  hostname
+   61  cd Battlezone\ II/
+   62  ls
+   63  wine bzone.exe 
+   64  hostname
+   65  wine bzone.exe 
+   66  shutdown -r now
+   67  cd /media/ma
+   68  cd /media/
+   69  ls
+   70  cd winusb_target_1445714597_11279/
+   71  ls
+   72  cd /media/
+   73  ls
+   74  cd winusb_tas
+   75  cd ~
+   76  ls
+   77  cd /run/media/
+   78  ls
+   79  cd matthew/
+   80  ls
+   81  cd Cruzer/
+   82  ls
+   83  cd BZ2_v1_3_6_5_PublicBeta_english/
+   84  ls
+   85  wine BZ2_v1_3_6_5_PublicBeta_english.exe 
+   86  ls
+   87  pwd
+   88  cd ~/Battlezone\ II/
+   89  ls
+   90  wine bzone.exe 
+   91  cd ~/.wine/
+   92  ls
+   93  cd drive_c/
+   94  ls
+   95  cd "Program Files (x86)"
+   96  ls
+   97  cd Battlezone\ II
+   98  ls
+   99  wine bzone.exe 
+  100  pwd
+  101  ls
+  102  wine bzone.exe 
+  103  wineconsole 
+  104  cd .wine/drive_c/
+  105  ls
+  106  cd Program\ Files\ (x86)
+  107  cd Program\ Files
+  108  cd ..
+  109  cd "Program Files (x86)"
+  110  ls
+  111  cd Battlezone\ 
+  112  cd Battlezone\ II
+  113  ls
+  114  clear 
+  115  ls
+  116   cd..
+  117  ls
+  118  cd ..
+  119  ls
+  120  cd ..
+  121  ls
+  122  cd Program\ Files\ ls
+  123  pwd
+  124  ls
+  125  cd "Program Files (x86)"
+  126  ls
+  127  ls ../Program\ Files
+  128  ls
+  129  ls LTC/
+  130  ls
+  131  ls Microsoft/
+  132  ls
+  133  ls Common\ Files/
+  134  cd Common\ Files/
+  135  ls
+  136  ls Microsoft\ Shared/
+  137  ls SH
+  138  ls Sh
+  139  ls Shared
+  140  pwd
+  141  ls
+  142  cd Microsoft\ Shared/
+  143  ls
+  144  cd VC/
+  145  ls
+  146  cd ..
+  147  ls
+  148  cd ..
+  149  ls
+  150  dir
+  151  ls
+  152  cd /run/media/
+  153  ls
+  154  cd matthew/
+  155  ls
+  156  cd Cruzer/
+  157  ls
+  158  cd ~
+  159  cd .wine/
+  160  cd drive_c/
+  161  ls
+  162  cd "Program Files (x86)"
+  163  ls
+  164  ls ../Program\ Files
+  165  cd ..
+  166  cd Program\ Files
+  167  ls
+  168  pwd
+  169  ls
+  170  cd Ha
+  171  pwd
+  172  ls
+  173  cd DirectX\ Happy\ Uninstall/
+  174  ls
+  175  wine DHU64.exe 
+  176  ls
+  177  wine unins000.exe 
+  178  ls
+  179  pwd
+  180  cd ..
+  181  ls
+  182  pwd
+  183  cd ..
+  184  ls
+  185  cd "Program Files (x86)"
+  186  ls
+  187  cd Battlezone\ II
+  188  ls
+  189  cd ..
+  190  rm - r Battlezone\ II
+  191  rm -r Battlezone\ II
+  192  ls
+  193  exit
+  194  cd Install/
+  195  ls
+  196  cd arduino/
+  197  ls
+  198  cd arduino-1.6.5-r5/
+  199  ls
+  200  ./arduino 
+  201  cd /sauerbraten/
+  202  ./sauerbraten_unix 
+  203  minecraft 
+  204  ls
+  205  google-chrome
+  206  ifconfig
+  207  hostname Matthew-Laptop2
+  208  su root
+  209  ifconfig
+  210  hostnanme
+  211  hostname
+  212  su root
+  213  ls
+  214  cd /sauerbraten/
+  215  ./sauerbraten_unix 
+  216  cd /sa
+  217  cd /sauerbraten/
+  218  ./sauerbraten_unix 
+  219  shutdown -r now
+  220  minecraft 
+  221  cd /run/media/
+  222  ls
+  223  cd matthew/
+  224  ls
+  225  cd 204E-D5BE/
+  226  kls
+  227  ls
+  228  cd minecraft/n
+  229  ls
+  230  cd minecraft/
+  231  ls
+  232  wine 1.8.6
+  233  wineneniooooooooooooofntethere sis school
+  234  exit
+  235  su root
+  236  su root
+  237  mupen64plus 
+  238  ls
+  239  mupen64plus 
+  240  cd ~/Roms/
+  241  ls
+  242  mupen64plus Mario\ 
+  243  mupen64plus Mario\ Party\ \(USA\).zip 
+  244  ls
+  245  mupen64plus Mario\ Kart\ 64\ \(USA\).n64 
+  246  ls
+  247  mupen64plus 
+  248  cd ~
+  249  cd Install/
+  250  ls
+  251  cd ..
+  252  ls
+  253  ls'ls
+  254  ls
+  255  ls
+  256  m64py 
+  257  ls
+  258  su root
+  259  shutdown -r now
+  260  ls
+  261  logout matthew
+  262  ls
+  263  shutdown -r now
+  264  su root
+  265  shutdown -r now
+  266  su root
+  267  xboxdrv 
+  268  su root
+  269  xrand
+  270  xrandr
+  271  minecraft 
+  272  su root
+  273  usermod -a -G vboxusers raj
+  274  su root
+  275  virtualbox 
+  276  /etc/init.d/vboxdrv setup
+  277  su root
+  278  virtualbox 
+  279  vmware-
+  280  vmware-hgfsclient 
+  281  vmware-toolbox-cmd 
+  282  vmware-xferlogs 
+  283  virtualbox 
+  284  cd ~/Install/
+  285  ls
+  286  cd el
+  287  cd elc
+  288  cd eclipse/
+  289  ls
+  290  ./eclipse 
+  291  gcc
+  292  ls
+  293  cd /run/media/
+  294  ls
+  295  cd matthew/
+  296  ls
+  297  cd 1474-C152/
+  298  ls
+  299  cd Preliminary/
+  300  ls
+  301  gcc -o queue.c a
+  302  gcc queue.c -o a
+  303  gcc -std=gnu++11 queue.c -o a
+  304  gcc -std=c11 queue.c -o a
+  305  gcc -std=c11 main.c -o a
+  306  ./a
+  307  chmod a_rwx a
+  308  chmod a+rwx a
+  309  ./a
+  310  chmod a+rwx a
+  311  ./a
+  312  su root
+  313  ./a
+  314  su root
+  315  ls
+  316  gcc -std=c11 queue.c -o a
+  317  gcc -std=c11 mainc -o a
+  318  gcc -std=c11 main.c -o a
+  319  ./a
+  320  gcc -std=c11 main.c -o output
+  321  ./output
+  322  chmod a+rwx output 
+  323  ./ou
+  324  ./output
+  325  ls
+  326  gcc -std=c11 main.c -o output
+  327  ./output
+  328  chmod a+rwx output
+  329  ./output
+  330  gcc -std=c11 main.c -o output
+  331  ./output
+  332  ls -l output
+  333  chmod +x output
+  334  ./output
+  335  ls
+  336  mkdir ~/Temp
+  337  ls
+  338  cd ..
+  339  ls
+  340  cp -r Preliminary ~/Temp/
+  341  ls ~/Temp/
+  342  cd ~/Temp
+  343  ls
+  344  cd Preliminary/
+  345  ls
+  346  gcc -std=c11 main.c -o output
+  347  ./output 
+  348  cp -r /run/media/matthew/1474-C152/Preliminary ~/Temp/
+  349  gcc -std=c11 main.c -o output
+  350  ./output
+  351  ls
+  352  gcc -std=c11 main.c -o output
+  353  ./output 
+  354  gcc -std=c11 main.c -o output
+  355  ./output 
+  356  gcc -std=c11 main.c -o output
+  357  ./output 
+  358  gcc -std=c11 main.c -o output
+  359  ./output 
+  360  gcc -std=c11 main.c -o output
+  361  ./output 
+  362  gcc -std=c11 main.c -o output
+  363  ./output 
+  364  gcc -std=c11 main.c -o output
+  365  ./output 
+  366  gcc -std=c11 main.c -o output
+  367  ./output 
+  368  gcc -std=c11 main.c -o output
+  369  ./output 
+  370  gcc -std=c11 main.c -o output
+  371  ./output 
+  372  gcc -std=c11 main.c -o output
+  373  ./output 
+  374  gcc -std=c11 main.c -o output
+  375  ./output 
+  376  gcc -std=c11 main.c -o output
+  377  ./output 
+  378  gcc -std=c11 main.c -o output
+  379  ./output 
+  380  gcc -std=c11 main.c -o output
+  381  ./output 
+  382  gcc -std=c11 main.c -o output
+  383  ./output 
+  384  gcc -std=c11 main.c -o output
+  385  ./output 
+  386  gcc -std=c11 main.c -o output
+  387  ./output 
+  388  gcc -std=c11 main.c -o output
+  389  ./output 
+  390  gcc -std=c11 main.c -o output
+  391  ./output 
+  392  gcc -std=c11 main.c -o output
+  393  ./output 
+  394  gcc -std=c11 main.c -o output
+  395  ./output 
+  396  gcc -std=c11 main.c -o output
+  397  ./output 
+  398  gcc -std=c11 main.c -o output
+  399  ./output 
+  400  gcc -std=c11 main.c -o output
+  401  ./output 
+  402  gcc -std=c11 main.c -o output
+  403  ./output 
+  404  gcc -std=c11 main.c -o output
+  405  ./output 
+  406  gcc -std=c11 main.c -o output
+  407  ./output 
+  408  gcc -std=c11 main.c -o output
+  409  ./output 
+  410  gcc -std=c11 main.c -o output
+  411  ./output 
+  412  gcc -std=c11 main.c -o output
+  413  ./output 
+  414  gcc -std=c11 main.c -o output
+  415  ./output 
+  416  gcc -std=c11 main.c -o output
+  417  ./output 
+  418  gcc -std=c11 main.c -o output
+  419  ./output 
+  420  gcc -std=c11 main.c -o output
+  421  ./output 
+  422  gcc -std=c11 main.c -o output
+  423  ./output 
+  424  gcc -std=c11 main.c -o output
+  425  ./output 
+  426  gcc -std=c11 main.c -o output
+  427  ./output 
+  428  gcc -std=c11 main.c -o output
+  429  ./output 
+  430  gcc -std=c11 main.c -o output
+  431  ./output 
+  432  gcc -std=c11 main.c -o output
+  433  ./output 
+  434  gcc -std=c11 main.c -o output
+  435  ./output 
+  436  gcc -std=c11 main.c -o output
+  437  ./output 
+  438  gcc -std=c11 main.c -o output
+  439  ./output 
+  440  gcc -std=c11 main.c -o output
+  441  ./output 
+  442  gcc -std=c11 main.c -o output
+  443  ./output 
+  444  gcc -std=c11 main.c -o output
+  445  ./output 
+  446  gcc -std=c11 main.c -o output
+  447  ./output 
+  448  gcc -std=c11 main.c -o output
+  449  ./output 
+  450  gcc -std=c11 main.c -o output
+  451  ./output 
+  452  gcc -std=c11 main.c -o output
+  453  ./output 
+  454  gcc -std=c11 main.c -o output
+  455  ./output 
+  456  gcc -std=c11 main.c -o output
+  457  ./output 
+  458  gcc -std=c11 main.c -o output
+  459  ./output 
+  460  gcc -std=c11 main.c -o output
+  461  ./output 
+  462  gcc -std=c11 main.c -o output
+  463  ./output 
+  464  gcc -std=c11 main.c -o output
+  465  ./output 
+  466  gcc -std=c11 main.c -o output
+  467  ./output 
+  468  gcc -std=c11 main.c -o output
+  469  ./output 
+  470  gcc -std=c11 main.c -o output
+  471  ./output 
+  472  gcc -std=c11 main.c -o output
+  473  shutdown -r now
+  474  scp mheydorn@schizo.cs.byu.edu:/2.txt /home/matthew/Documents/
+  475  scp mheydorn@schizo.cs.byu.edu:~/2.txt /home/matthew/Documents/
+  476  scp -r mheydorn@schizo.cs.byu.edu:~/2ImageEditor /home/matthew/Documents/
+  477  ls
+  478  cd Documents/2ImageEditor/
+  479  ls
+  480  cd src/
+  481  ls
+  482  gedit Image.java 
+  483  ls
+  484  gedit Image
+  485  gedit ImageEditor.java 
+  486  ls
+  487  cd ..
+  488  ls
+  489  gedit slcInvert.ppm 
+  490  gedit small.ppm
+  491  ls
+  492  su root
+  493  su roo
+  494  su root
+  495  virtualbox
+  496  vmware
+  497  vir
+  498  virtualbox 
+  499  su root
+  500  ifconfig
+  501  ls
+  502  cd /Downloads/
+  503  ls
+  504  virtualbox 
+  505  shutdown -r now
+  506  su root
+  507  exit
+  508  shutdown -r now
+  509  octave
+  510  cd /run/media/matthew/1474-C152/
+  511  ls
+  512  cd 390/
+  513  ls
+  514  cd milestone1/
+  515  ls
+  516  cp ~/Documents/390/scope_0.csv .
+  517  cp ~/Documents/390/NotCovered.csv .
+  518  cd /
+  519  fdisk -l
+  520  umount /run/media/matthew/1474-C152 
+  521  cp ~/Documents/390/scope_0.csv .
+  522  pwd
+  523  octave
+  524  ls
+  525  history
+  526  ls
+  527  history
+  528  history | history.txt
+  529  history > history.txt
+  530  gedit history.txt 
+  531  rm history.txt 
+  532  cd Documents/
+  533  ls
+  534  cd 360/
+  535  ls
+  536  mkdir Example
+  537  cd Example/
+  538  ls;
+  539  ls
+  540  vim foo.html
+  541  vi foo.html
+  542  git
+  543  touch .
+  544  touch ..
+  545  touch /
+  546  git config --global user.name matthew
+  547  git config --global user.email matthew.heydorn@gmail.com
+  548  git init
+  549  ls -la
+  550  history > setupgit.txt
+  551  exit
+  552  shutdown -r now
+  553  su root
+  554  cd Documents/360/
+  555  ls
+  556  chmod 400 pass.pem
+  557  ls
+  558  l
+  559  sl
+  560  ls
+  561  gedit instructions
+  562  ls
+  563  ssh -i "pass.pem" ubuntu@ec2-54-201-63-255.us-west-2.compute.amazonaws.com
+  564  ls
+  565  cat pass.pem 
+  566  ls
+  567  ssh -i "pass.pem" ubuntu@ec2-54-201-63-255.us-west-2.compute.amazonaws.com
+  568  ls
+  569  ssh -i "pass.pem" ubuntu@ec2-54-201-63-255.us-west-2.compute.amazonaws.com
+  570  ssh -i "pass.pem" ubuntu@ec2-54-201-71-195.us-west-2.compute.amazonaws.com
+  571  ssh -i "pass.pem" ubuntu@ec2-54-201-63-255.us-west-2.compute.amazonaws.com
+  572  ssh -i "pass.pem" ubuntu@ec2-54-201-71-195.us-west-2.compute.amazonaws.com
+  573  ls
+  574  pwd
+  575  ls
+  576  mkdir htdocs
+  577  scp -i "pass.pem" ubuntu@ec2-54-201-63-255.us-west-2.compute.amazonaws.com/home/bitnami/htdocs/* htdocs/
+  578  scp -i "pass.pem" ubuntu@ec2-54-201-63-255.us-west-2.compute.amazonaws.com:/home/bitnami/htdocs/* htdocs/
+  579  ls
+  580  cd htdocs/
+  581  ls
+  582  gedit upload.sh
+  583  scp -i "/home/matthew/Documents/360/pass.pem" * ubuntu@ec2-54-201-63-255.us-west-2.compute.amazonaws.com:/home/bitnami/htdocs
+  584  sh upload.sh 
+  585  gedit index.html.
+  586  gedit index.html
+  587  ls
+  588  rm index.html
+  589  gedit index.html.en
+  590  ls
+  591  gedit index.html.default 
+  592  ls
+  593  cd /
+  594  ls
+  595  gedit index.html.en
+  596  pwd
+  597  cd ~/Documents/360/
+  598  ls
+  599  cd htdocs/
+  600  ls
+  601  gedit index.html.en 
+  602  sh upload.sh 
+  603  ls
+  604  gedit index.html
+  605  sh upload.sh 
+  606  ls
+  607  gedit 503.html 
+  608  gedit index.html.de
+  609  sh upload.sh 
+  610  gedit upload.sh 
+  611  ls
+  612  cp upload.sh ../upload.sh
+  613  cd ..
+  614  ls
+  615  cd htdocs/
+  616  ls
+  617  rm -f *
+  618  ls
+  619  cd ..
+  620  ls
+  621  cd htdocs/
+  622  cp ../upload.sh .
+  623  ls
+  624  scp ubuntu@ec2-54-201-71-195.us-west-2.compute.amazonaws.com:/home/bitnami/htdocs/* .
+  625  scp -i ubuntu@ec2-54-201-71-195.us-west-2.compute.amazonaws.com:/home/bitnami/htdocs/* .
+  626  pw
+  627  pwd
+  628  cd ..
+  629  ls
+  630  scp -i "pass.pem" ubuntu@ec2-54-201-71-195.us-west-2.compute.amazonaws.com:/home/bitnami/htdocs/* htdocs/
+  631  ls
+  632  cd htdocs/
+  633  sh upload.sh 
+  634  gedit upload.sh 
+  635  scp -i "/home/matthew/Documents/360/pass.pem" * ec2-54-201-71-195.us-west-2.compute.amazonaws.com:/home/bitnami/htdocs
+  636  sh upload.sh 
+  637  minecraft 
+  638  cd DOc
+  639  cd Doc
+  640  PWD
+  641  pwd
+  642  cd ..
+  643  ls
+  644  sh upload.sh 
+  645  scp -i "/home/matthew/Documents/360/pass.pem" * ec2-54-201-71-195.us-west-2.compute.amazonaws.com:/home/bitnami/htdocs
+  646  scp -i "/home/matthew/Documents/360/pass.pe" * ec2-54-201-71-195.us-west-2.compute.amazonaws.com:/home/bitnami/htdocs
+  647  scp -i "/home/matthew/Documents/360/pass.pem" * ec2-54-201-71-195.us-west-2.compute.amazonaws.com:/home/bitnami/htdocs
+  648  ssh -i "/home/matthew/Documents/360/pass.pem" ubuntu@ec2-54-201-71-195.us-west-2.compute.amazonaws.com
+  649  history > worked.txt
